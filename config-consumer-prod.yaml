@@ -1,5 +1,5 @@
 info:
-  profile:prod
+  profile: prod
 
-name:config-prod
+name: config-prod
 words: this is a production environment
